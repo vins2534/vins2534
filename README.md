@@ -18,15 +18,26 @@
 
 ### 📊 GitHub Dashboard
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vins2534&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vins2534&theme=radical" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vins2534&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vins2534&layout=compact&theme=radical" width="48%" />
-</div>
+<table align="center" style="width:auto;" border="0" cellspacing="0" cellpadding="0"> <!-- Add border="0" cellspacing="0" cellpadding="0" -->
+  <tr>
+    <!-- Row 1 -->
+    <td align="center" style="padding: 10px;"> <!-- Keep padding here for space around images -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vins2534&theme=radical" alt="Vinit's GitHub Streak" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vins2534&theme=radical" alt="Vinit's Profile Details" />
+    </td>
+  </tr>
+  <tr>
+    <!-- Row 2 -->
+    <td align="center" style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=vins2534&show_icons=true&theme=radical" alt="Vinit's GitHub Stats" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vins2534&layout=compact&theme=radical" alt="Vinit's Top Languages" />
+    </td>
+  </tr>
+</table>
 
 
 
@@ -47,23 +58,35 @@
 
 ### 🚀 Skills & Tools
 
-**Languages**: Python, C, SQL  
-**Libraries**: PyTorch, TensorFlow, Scikit-learn, OpenCV, HuggingFace, Librosa  
-**ML Areas**: NLP, Deep Learning, Computer Vision, Reinforcement Learning  
-**Web Dev**: React.js, Flask, FastAPI, Node.js  
-**Databases**: MongoDB, MySQL, AstraDB  
-**Tools**: Git, W&B, Streamlit, Android Studio, Power BI  
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react"/>
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask"/>
-  <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/-FastAPI-005571?style=flat&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+<p align="center">
+    <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="Python" title="Python"/>  
+    <img src="https://cdn.simpleicons.org/c/00599C" height="30" alt="C" title="C"/>  
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="JavaScript" title="JavaScript"/>  
+    <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="HTML5" title="HTML5"/>  
+    <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="CSS3" title="CSS3"/>  
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="SQL" title="SQL"/>  
+    <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30" alt="PyTorch" title="PyTorch"/>  
+    <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="30" alt="TensorFlow" title="TensorFlow"/>  
+    <img src="https://cdn.simpleicons.org/keras/D00000" height="30" alt="Keras" title="Keras"/>  
+    <img src="https://cdn.simpleicons.org/huggingface/FFD21F" height="30" alt="Hugging Face" title="Hugging Face Transformers"/>  
+    <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="30" alt="Scikit-learn" title="Scikit-learn"/>  
+    <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="Pandas" title="Pandas"/>  
+    <img src="https://cdn.simpleicons.org/numpy/013243" height="30" alt="NumPy" title="NumPy"/>  
+    <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="30" alt="OpenCV" title="OpenCV"/>  
+    <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="Jupyter" title="Jupyter Notebook/Lab"/>  
+    <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="React" title="React.js"/>  
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="Tailwind CSS" title="Tailwind CSS"/>  
+    <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="Node.js" title="Node.js"/>  
+    <img src="https://cdn.simpleicons.org/flask/000000" height="30" alt="Flask" title="Flask"/>  
+    <img src="https://cdn.simpleicons.org/fastapi/005571" height="30" alt="FastAPI" title="FastAPI"/>  
+    <img src="https://cdn.simpleicons.org/mongodb/4EA94B" height="30" alt="MongoDB" title="MongoDB"/>  
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="MySQL" title="MySQL"/>  
+    <img src="https://cdn.simpleicons.org/datastax/0052CC" height="30" alt="AstraDB (DataStax)" title="AstraDB (DataStax)"/>  
+    <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git" title="Git"/>  
+    <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="Docker" title="Docker"/>  
+    <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="30" alt="Streamlit" title="Streamlit"/>  
+    <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="30" alt="Android Studio" title="Android Studio"/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" height="30" alt="Power BI" title="Power BI"/>  
 </p>
 
 
