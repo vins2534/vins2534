@@ -16,28 +16,22 @@
 
 ---
 
-### 📊 GitHub Dashboard
+## 📊 GitHub Insights
 
-<table align="center" style="width:auto;" border="0" cellspacing="0" cellpadding="0"> <!-- Add border="0" cellspacing="0" cellpadding="0" -->
-  <tr>
-    <!-- Row 1 -->
-    <td align="center" style="padding: 10px;"> <!-- Keep padding here for space around images -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vins2534&theme=radical" alt="Vinit's GitHub Streak" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vins2534&theme=radical" alt="Vinit's Profile Details" />
-    </td>
-  </tr>
-  <tr>
-    <!-- Row 2 -->
-    <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=vins2534&show_icons=true&theme=radical" alt="Vinit's GitHub Stats" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vins2534&layout=compact&theme=radical" alt="Vinit's Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vins2534&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vins2534&layout=compact&theme=github_dark&hide_border=true" width="48%" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vins2534&theme=github_dark&utcOffset=5.5" width="48%" alt="Coding Times"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vins2534&theme=github_dark" width="48%" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vins2534&theme=github_dark" width="48%" alt="General Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vins2534&theme=github_dark" width="48%" alt="Languages Per Repo"/>
+</p>
 
 
 
